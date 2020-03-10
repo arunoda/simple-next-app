@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "next",
-    "build": "next2 build",
+    "build": "next build",
     "start": "next start"
   },
 
