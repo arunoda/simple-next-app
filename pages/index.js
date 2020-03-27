@@ -1,6 +1,6 @@
 const Index = () => (
   <div>
-    <p>Hello Next.js Froddm a forked PR 756esdsd das dsdd 222</p>
+    <p>Hello Next.js Froddm a forked PR dd2</p>
   </div>
 );
 
